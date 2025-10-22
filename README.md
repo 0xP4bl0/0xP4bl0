@@ -73,7 +73,7 @@ const andrewDev = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xP4bl0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xP4bl0&theme=tokyonight)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xP4bl0&theme=tokyonight">
 </div>
 
 <div align="center">
