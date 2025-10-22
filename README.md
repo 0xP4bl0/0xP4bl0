@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there! I'm <img src="https://img.shields.io/badge/Prince%20Carl%20S.%20Ajoc-00d9ff?style=for-the-badge" />
+# Hola, Yo soy Andrew Vista
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Passionate+Programmer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
