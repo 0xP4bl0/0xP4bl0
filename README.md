@@ -6,6 +6,8 @@
 
 ---
 
+>hi
+
 ### 🧠 About Me  
 💻 I’m a **Full-Stack Developer** passionate about creating efficient, secure, and scalable systems.  
 ⚡ I love working with both **front-end magic** and **back-end logic**, exploring new technologies, and improving my craft every day.  
