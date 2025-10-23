@@ -49,16 +49,6 @@
 
 ---
 
-### 🚀 Featured Projects  
-💡 A few highlights of what I’ve built or contributed to:
-
-- 🧠 **[DevHub Portal](#)** – A simple and scalable student portal made with React + PHP + MySQL  
-- 🎮 **[Lua Game Scripts](#)** – Custom scripts enhancing in-game experience and automation  
-- ⚙️ **[AutoTask CLI](#)** – A command-line productivity tool written in Node.js and C++  
-- 🌐 **[Portfolio Website](#)** – Personal portfolio made with modern HTML5, CSS3, and ReactJS  
-
----
-
 ### 🧩 Fun Facts  
 - 🔥 I started coding by tweaking game files with **Lua scripts**.  
 - ☕ My debugging fuel: **coffee + lo-fi beats**.  
