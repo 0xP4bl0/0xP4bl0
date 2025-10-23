@@ -71,7 +71,7 @@
 <p align="center">
   <a href="https://github.com/0xP4bl0"><img src="https://img.shields.io/badge/GitHub-0xP4bl0-181717?style=for-the-badge&logo=github"/></a>
   <a href="mailto:andrewvista2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://instagram.com/pablo.y.joaquin.74"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/pablo.y.joaquin.74"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
