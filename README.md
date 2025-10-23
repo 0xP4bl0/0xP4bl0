@@ -5,7 +5,7 @@
 </p>
 
 ---
-
+<div align="center">
 
 ### 🧠 About Me  
 💻 I’m a **Full-Stack Developer** passionate about creating efficient, secure, and scalable systems.  
@@ -72,3 +72,4 @@
 </p>
 
 <p align="center">✨ Built with ❤️ by <a href="https://github.com/0xP4bl0">0xP4bl0</a> ✨</p>
+</div>
